@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "mccarter.start-git-bash"
+        "mccarter.start-git-bash",
+        "coenraads.bracket-pair-colorizer"
     ]
 }
